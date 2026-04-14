@@ -1,0 +1,21 @@
+{
+  "name": "sw2interface",
+  "version": "1.0.0",
+  "description": "generate typescript interface declare file by swagger api docs.",
+  "main": "index.js",
+  "scripts": {
+    "sw2interface": "node index.js"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "joe991213@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.6.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
